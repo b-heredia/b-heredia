@@ -11,6 +11,7 @@ I'm a Cycle 60 intern at I.C. Stars. I'm currently working on the Medline Operat
 
 <details>
 <summary> Skills I am trying to learn </summary>
+
 + 1
   
 + 2
