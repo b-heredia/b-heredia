@@ -1,4 +1,5 @@
-<div>
+<div align="center">
+  
 <h1>Hello from the Windy City, I am Briana Heredia :)</h1>
 </div>
 <img src="http://github.com/b-heredia.png" width="150" />
