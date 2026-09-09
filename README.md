@@ -1,5 +1,5 @@
 <div>
-<h1>Hello from the Windy City, I am Briana Heredia :)<h/>
+<h1>Hello from the Windy City, I am Briana Heredia :)</h1>
 </div>
 <img src="http://github.com/b-heredia.png" width="150" />
 I'm a Cycle 60 intern at I.C. Stars. I'm currently working on the Medline Operation Problem Navigator.
