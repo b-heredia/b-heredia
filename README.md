@@ -1,8 +1,13 @@
-## Hi there, I am Briana Heredia <3 👋
+## Hello from the windy city, I am Briana Heredia :)
 
 I'm a Cycle 60 intern at I.C. Stars. I'm currently working on the Medline Operation Problem Navigator.
 
 **Currently Building:** Project for Medline
 
-**My Goal Thus Cycle:** I want to become the very best
+**My Goal This Cycle:** I want to become the very best (pokemon reference)
+
+**Reach me @**
++ [bheredia@icstars.org](mailto:bheredia@icstars.org)
++ [My Linkedin Profile](https://www.linkedin.com/in/briana-h-04a6863a3)
+
 
