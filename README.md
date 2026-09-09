@@ -9,6 +9,17 @@ I'm a Cycle 60 intern at I.C. Stars. I'm currently working on the Medline Operat
 
 **My Goal This Cycle:** I want to become the very best (pokemon reference)
 
+<details>
+<summary> Skills I am trying to learn </summary>
++ 1
++ 2
++ 3
++ 4
++ 5
++ 6
+
+</details>
+
 **Reach me @**
 + [bheredia@icstars.org](mailto:bheredia@icstars.org)
 + [My Linkedin Profile](https://www.linkedin.com/in/briana-h-04a6863a3)
