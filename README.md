@@ -1,5 +1,7 @@
+<div>
 ## Hello from the Windy City, I am Briana Heredia :)
-
+</div>
+<img src="http://github.com/bheredia.png" width="150" />
 I'm a Cycle 60 intern at I.C. Stars. I'm currently working on the Medline Operation Problem Navigator.
 
 **Currently Building:** Project for Medline
