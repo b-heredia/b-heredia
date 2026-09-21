@@ -10,19 +10,19 @@ I'm a Cycle 60 intern at I.C. Stars. I'm currently working on the Medline Operat
 **My Goal This Cycle:** I want to become the very best (pokemon reference)
 
 <details>
-<summary> Skills I am trying to learn </summary>
+<summary> Skills I am currently working on </summary>
 
-+ 1
++ AI assisted development and AI product concepts
   
-+ 2
++ Project management, strategic thinking, research and team collaboration
   
-+ 3
++ Web design, digital product design
   
-+ 4
++ Programming fundamentals, debugging, version control and collaborative development
   
-+ 5
++ HTML, CSS, JavaScript, Git & Github
   
-+ 6
++ CyberSecurity Basics
 
 </details>
 
