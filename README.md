@@ -8,8 +8,8 @@ I'm a Cycle 60 intern at I.C. Stars. I'm currently working on the Medline Operat
 **Currently Building:** Project for Medline
 
 **My Goal This Cycle:** I want to be the very best, like no one ever was.
-— and yes, that’s a Pokémon reference.
-Keep learning, keep building, and keep improving.
+— And yes, that’s a Pokémon reference.
+I'm here to keep learning, keep building, and keep improving.
 
 <details>
 <summary> Skills I am currently developing </summary>
