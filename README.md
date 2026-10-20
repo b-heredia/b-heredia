@@ -18,7 +18,7 @@ I'm a technology professional in development with a focus on the intersection of
 <h2>What I'm Building</h2>
 
 <p>
-As part of <strong>Cycle 60 at I.C. Stars</strong>, I'm currently developing a private, client-focused technology solution. The project explores how AI, data, and software can be combined to help teams identify operational issues, recognize patterns, and support more efficient problem-solving.
+As part of <strong>Cycle 60 at i.c.stars</strong>, I'm currently developing a private, client-focused technology solution. The project explores how AI, data, and software can be combined to help teams identify operational issues, recognize patterns, and support more efficient problem-solving.
 </p>
 
 <br>
